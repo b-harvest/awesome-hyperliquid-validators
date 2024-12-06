@@ -37,7 +37,7 @@ The number of blocks signing in one hour.
 0x8f34..a79b: 38796
 0x1cb2..04f0: 38589
 0x979f..be76: 38247
-0xef22..d5ac: 37264 -> Existing VULTR, GCP Tokyo region showed about 15000sign performance.
+0xef22..d5ac: 37264 -> Existing VULTR, GCP Tokyo region showed about 15000sign performance.(not custom)
 0xf100..8026: 36043
 0x21c9..67ff: 35627
 0x9600..bb93: 35210
