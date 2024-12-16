@@ -16,8 +16,6 @@ net.ipv4.tcp_rmem = 4096 87380 134217728
 net.ipv4.tcp_wmem = 4096 65536 134217728
 net.core.default_qdisc=fq
 net.ipv4.tcp_congestion_control=bbr
-net.core.default_qdisc=fq
-net.ipv4.tcp_congestion_control=bbr
 EOL
 
 sysctl -p /etc/sysctl.d/99-a-custom.conf
